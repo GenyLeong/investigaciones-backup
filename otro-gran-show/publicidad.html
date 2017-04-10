@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://larepublica.pe/data/otro-gran-show/programas_2.html">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0"/>
+  <meta name="robots" content="index,follow" />
+  <meta name="keywords" content="Espectáculos, Esto es Guerra, Antonio Pavón, Jenny Kume, Combate, Yiddá Eslava, Televisión peruana, Amor Amor Amor">
+  <meta name="description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.'/>
+  <link rel="canonical" href="http://larepublica.pe/data/otro-gran-show/estadisticas.html" />
+  <meta property="og:description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.' />
+  <meta property="fb:app_id" content="489210501129201" />
+  <meta property="og:site_name" content="LaRepublica.pe" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://larepublica.pe/data/otro-gran-show/estadisticas.html" />
+  <meta property="og:title" content="El otro gran show | ¿Cuál es el negocio? | LaRepublica.pe" />
+  <meta property="og:image" content="http://larepublica.pe/data/otro-gran-show/images/foto_portada.jpg" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@larepublica_pe" />
+  <meta name="twitter:url" content="http://larepublica.pe/data/otro-gran-show/estadisticas.html" />
+  <meta name="twitter:image" content="http://larepublica.pe/data/otro-gran-show/images/foto_portada.jpg" />
+  <meta name="twitter:title" content="El otro gran show | ¿Cuál es el negocio? | LaRepublica.pe" />
+  <meta name="twitter:description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.' />
+  <meta name="twitter:width" content="150" />
+  <meta name="twitter:height" content="120" />
+  <meta itemprop="name" content="El otro gran show | ¿Cuál es el negocio? | LaRepublica.pe">
+  <meta itemprop="description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.'/>
+  <title>El otro gran show | LaRepublica.pe</title>
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/main.min.css">
+  <link rel="shortcut icon" href="http://larepublica.pe/favicon.ico" />
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  <style>
+  .lr{
+        margin-top: 8px;
+  }
+  @media screen and (max-width: 767px) {
+    .logo_lr{
+      width: 153px;
+    }
+    .lr{
+          margin-top: 13px;
+    }
+  }
+  </style>
+</head>
+<body>
+  <div style="padding: 0.8rem;background-color: #7B126C;height: 56px;margin-bottom:49px;">
+    <a href="http://larepublica.pe/data/otro-gran-show/" alt="el_otro_gran_show" class="pull-left">
+      <img class="img-responsive" src="images/logo_nav.png">
+    </a>
+    <a href="http://larepublica.pe/" alt="la_republica" class="pull-right lr">
+      <img class="img-responsive logo_lr" src="images/logo_lr.png">
+    </a>
+  </div>
+  <div id="container-center" class="v-center" style="position: relative;bottom: 49px;">
+    <div id="container-8" class="container-css" style="width:100%;"></div>
+  </div>
+  <a href="http://larepublica.pe/data/otro-gran-show/estadisticas.html" class="ver_video v-center" style="padding:7px; height:56px; margin-top: 49px; font-size: 20px;position: fixed;bottom: 0;width: 100%;border-radius:0px"><i class="fa fa-plus" aria-hidden="true" style="margin-right: 19px;font-size: 30px;"></i> Ver el especial completo</a>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script>
+  $(function() {
+    $(document).ready(function() {
+        window.addEventListener('load', function () {
+          var barra_5 = Highcharts.chart('container-8', {
+              chart: {
+                  type: 'line',
+                  backgroundColor: '#FEFCFA'
+              },
+              title: {
+                  text: 'Inversión publicitaria de Cencosud en TV nacional',
+              },
+              subtitle: {
+                  text: '<h3><b>Muestra de paquete publicitario de un mes. Sujeto a variaciones.</b></h3>',
+              },
+              legend: {
+                  align: 'right',
+                  verticalAlign: 'middle',
+                  layout: 'vertical'
+              },
+              xAxis: {
+                  categories: ['Sin senos no hay paraíso', '24 horas: edición central', 'El gran show', 'Al Fondo Hay Sitio', 'Reporte Semanal', 'Yo Soy fds', ],
+              },
+              yAxis: {
+                  title: {
+                      text: 'Total neto dólares'
+                  },
+                  plotLines: [{
+                      value: 0,
+                      width: 1,
+                      color: '#808080',
+                  }]
+              },
+              plotOptions: {
+                  line: {
+                      dataLabels: {
+                          enabled: true
+                      },
+                      enableMouseTracking: true
+                  }
+              },
+              tooltip: {
+                  shared: true,
+                  useHTML: true,
+                  valuePrefix: 'S/.',
+                  headerFormat: '<b style="text-transform: uppercase;">{point.key}</b><br>',
+                  pointFormat: '{series.name}: ' + '<b>{point.y}</b>',
+              },
+              series: [{
+                  name: 'LATINA TV',
+                  data: [3562.02, 4365.95, '', '', '', ''].reverse(),
+                  color: '#FF0097'
+              }, {
+                  name: 'ANDINA TV',
+                  data: ['', '', '', '', '', 4536.00].reverse(),
+                  color: '#00BD8D'
+              }, {
+                  name: 'AMERICA TV',
+                  data: ['', '', 6020.02, 8338.34, '', ''].reverse(),
+                  color: '#FF5001'
+              }, {
+                  name: 'PANAMERICANA TV',
+                  data: ['', '', '', '', 1263.72, ''].reverse(),
+                  color: '#DE0017'
+              }],
+              responsive: {
+                  rules: [{
+                      condition: {
+                          maxWidth: 500
+                      },
+                      chartOptions: {
+                          legend: {
+                              align: 'center',
+                              verticalAlign: 'bottom',
+                              layout: 'horizontal'
+                          }
+                      }
+                  }]
+              }
+          });
+        }, true)
+    })
+  })
+  </script>
+  <script type="text/javascript" src="js/cuadro.js" ></script>
+  <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-THTX64" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <script>
+      (function(w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({
+              'gtm.start': new Date().getTime(),
+              event: 'gtm.js'
+          });
+          var f = d.getElementsByTagName(s)[0],
+              j = d.createElement(s),
+              dl = l != 'dataLayer' ?
+              '&l=' + l :
+              '';
+          j.async = true;
+          j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl + '&nc=' + new Date().getTime();
+          f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-THTX64');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Chartbeat -->
+  <script type='text/javascript'>
+      var _sf_async_config = {};
+      /** CONFIGURATION START **/
+      _sf_async_config.uid = 60837;
+      _sf_async_config.domain = 'larepublica.pe';
+      _sf_async_config.useCanonical = true;
+      _sf_async_config.sections = 'data.elotrogranshow'; //CHANGE THIS
+      _sf_async_config.authors = 'none'; //CHANGE THIS
+      /** CONFIGURATION END **/
+      (function() {
+          function loadChartbeat() {
+              window._sf_endpt = (new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+              document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat :
+              function() {
+                  oldonload();
+                  loadChartbeat();
+              };
+      })();
+  </script>
+  <!-- /Chartbeat -->
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({
+          c1: "2",
+          c2: "6906594"
+      });
+      (function() {
+          var s = document.createElement("script"),
+              el = document.getElementsByTagName("script")[0];
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ?
+              "https://sb" :
+              "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6906594&cv=2.0&cj=1"/>
+</noscript>
+  <div id="fb-root"></div>
+  <script>
+      (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+</html>

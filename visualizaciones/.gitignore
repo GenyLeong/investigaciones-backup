@@ -1,0 +1,4 @@
+node_modules/
+mapa-piura/dist/
+mapa-piura/static/sass
+mapa-piura/gulpfile.js

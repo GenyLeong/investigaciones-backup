@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>GMaps.js &mdash; KML layers</title>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <link href='http://api.mapbox.com/mapbox-gl-js/v0.34.0/mapbox-gl.css' rel='stylesheet' />
+  <link rel="stylesheet" type="text/css" href="static/css/main.min.css" />
+  <script src='http://api.mapbox.com/mapbox-gl-js/v0.34.0/mapbox-gl.js'></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function(event) { 
+    var ancho = window.innerWidth;
+    var altura = window.innerHeight;
+            if (ancho<800){
+                location.href = "https://www.google.com/maps/d/embed?mid=1t7ScPCuYFPeOOjg43JGAnufLFkI&hl=es"
+            }
+
+            else{
+                location.href ="http://glr.gitlab.io/visualizaciones/mapa-piura/"
+            }
+});
+        
+  </script>
+</head>
+<body>
+</body> 
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>GMaps.js &mdash; KML layers</title>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <link href='http://api.mapbox.com/mapbox-gl-js/v0.34.0/mapbox-gl.css' rel='stylesheet' />
+  <link rel="stylesheet" type="text/css" href="static/css/main.min.css" />
+  <script src='http://api.mapbox.com/mapbox-gl-js/v0.34.0/mapbox-gl.js'></script>
+  <script>
+
+  </script>
+</head>
+<body>
+    <div id='map'>
+        <div id="marker6"></div>
+    </div>
+    <script>        
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZ2VueWxlb24iLCJhIjoiY2owdTJ3MDJtMDVxNzJ3bzY4bnhtaXR3byJ9.qNzcqNAoPWDGwyMicS7F8Q';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v9',
+        center: [-80.7018258, -5.1930848],
+        zoom: 9
+    });
+
+    var popup = new mapboxgl.Popup({offset: 25})
+    // .setText('<img src="static/images/logo_lr.png">');
+    .setHTML('<h4 class="title">IE. Miguel Cortés</h4><p>Se han instalado 100 carpas para 100 familias, siendo un total de 500 personas</p><p>La administración, alimentación y recojo de residuos está a cargo de la Municipalidad distrital de Castilla</p><img class="responsive-img" src="https://pbs.twimg.com/media/C8BdcK_XgAAw-tr.jpg">')
+
+    var popup1 = new mapboxgl.Popup({offset: 25})
+    // .setText('<img src="static/images/logo_lr.png">');
+    .setHTML('<h4 class="title">IE. José Carlos Mariátegui</h4><p>Se han instalado 42 carpas para 42 familias, siendo un total de 200 personas</p><p>La administración, alimentación y recojo de residuos está a cargo de la Gerencia Regional de ProRural </p>')
+
+    var popup2 = new mapboxgl.Popup({offset: 25})
+    // .setText('<img src="static/images/logo_lr.png">');
+    .setHTML('<h4 class="title">IE. Jorge Basadre</h4><p>Se han instalado 50 carpas para 50 familias, siendo un total de 250 personas</p><p>La administración, alimentación y recojo de residuos está a cargo de la Municipalidad Provincial de Piura</p><img class="responsive-img" src="https://pbs.twimg.com/media/C8CvTfYXQAAMWk1.jpg">')
+
+    var popup3 = new mapboxgl.Popup({offset: 25})
+    // .setText('<img src="static/images/logo_lr.png">');
+    .setHTML('<h4 class="title">Kilómetro 980 de la panamericana </h4><p>Se han instalado 500 carpas para 500 familias, siendo un total de 2500 personas</p><p>La administración y recojo de residuos está a cargo de la Dirección Regional de Educación y la alimentación está a cargo del COER y del programa de Apoyo Social</p>')
+
+    var popup4 = new mapboxgl.Popup({offset: 25})
+    // .setText('<img src="static/images/logo_lr.png">');
+    .setHTML('<h4 class="title">Morropón </h4><p>Refugio habilitado por el Instituto Nacional de Defensa Civil (INDECI)</p>')
+
+    var popup5 = new mapboxgl.Popup({offset: 25})
+    // .setText('<img src="static/images/logo_lr.png">');
+    .setHTML('<h4 class="title">Provincia de Piura </h4><p>Refugio habilitado por el Instituto Nacional de Defensa Civil (INDECI)</p>')
+
+
+    // create DOM element for the marker
+    var el = document.createElement('div');
+    el.id = 'marker';
+    el.title ="I.E Miguel Cortés"
+
+    var el1 = document.createElement('div');
+    el1.id = 'marker1';
+    el1.title ="I.E José Carlos Mariátegui"
+
+    var el2 = document.createElement('div');
+    el2.id = 'marker2';
+    el2.title ="I.E Jorge Basadre"    
+
+    var el3 = document.createElement('div');
+    el3.id = 'marker3';
+    el3.title ="Kilómetro 980 de la Panamericana Norte"
+
+    var el4 = document.createElement('div');
+    el4.id = 'marker4';
+    el4.title ="Morropón"
+
+    var el5 = document.createElement('div');
+    el5.id = 'marker5';
+    el5.title ="Provincia de Piura"
+
+    new mapboxgl.Marker(el, {offset:[-25, -25]})
+            .setLngLat([-80.694119, -5.2157878])
+            .setPopup(popup) // sets a popup on this marker
+            .addTo(map);
+
+    new mapboxgl.Marker(el1, {offset:[-25, -25]})
+            .setLngLat([-80.6674542, -5.1853706])
+            .setPopup(popup1) // sets a popup on this marker
+            .addTo(map);
+
+    new mapboxgl.Marker(el2, {offset:[-25, -25]})
+            .setLngLat([-80.7317418,-5.1845698])
+            .setPopup(popup2) // sets a popup on this marker
+            .addTo(map);
+
+    new mapboxgl.Marker(el3, {offset:[-25, -25]})
+            .setLngLat([-80.6910311,-5.174577])
+            .setPopup(popup3) // sets a popup on this marker
+            .addTo(map);
+
+    new mapboxgl.Marker(el4, {offset:[-25, -25]})
+            .setLngLat([-79.9775505,-5.1892524])
+            .setPopup(popup4) // sets a popup on this marker
+            .addTo(map);
+
+    new mapboxgl.Marker(el5, {offset:[-25, -25]})
+            .setLngLat([-81.0547935,-5.1979396])
+            .setPopup(popup5) // sets a popup on this marker
+            .addTo(map);
+    </script>
+</body>
+</html>

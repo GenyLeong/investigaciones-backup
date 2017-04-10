@@ -1,0 +1,823 @@
+N.º,Año,Departamento,Provincia,Edad,Relacion con la víctima,Forma del feminicidio,Lugar de ocurrencia
+1,2009,Lambayeque,Chiclayo,38,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+2,2009,Cusco,Chumbivilcas,45,Pareja o ex pareja,Acuchillada,Casa
+3,2009,Lima,Lima,20,Pareja o ex pareja,Acuchillada,Casa
+4,2009,Lima,Huaral,13,Familia,Asfixiada o estrangulada,Casa
+5,2009,Lima,Lima,42,Pareja o ex pareja,Baleada,Casa
+6,2009,Junín,Tarma,49,Pareja o ex pareja,Acuchillada,Casa
+7,2009,Lima,Lima,78,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+8,2009,Lima,Lima,49,Pareja o ex pareja,Envenenada,Fuera de Casa
+9,2009,Callao,Callao,9,Familia,Envenenada,Fuera de Casa
+10,2009,Callao,Callao,11,Familia,Envenenada,Fuera de Casa
+11,2009,San Martín,Rioja,47,Pareja o ex pareja,Acuchillada,Casa
+12,2009,Lima,Lima,30,Pareja o ex pareja,Baleada,Fuera de Casa
+13,2009,Junín,Huancayo,23,Pareja o ex pareja,Golpeada,Casa
+14,2009,Huánuco,Huánuco,46,Familia,Baleada,Fuera de Casa
+15,2009,Lima,Lima,40,Pareja o ex pareja,Golpeada,Fuera de Casa
+16,2009,La Libertad,Julcán,32,Pareja o ex pareja,Acuchillada,Casa
+17,2009,San Martín,Rioja,52,Pareja o ex pareja,Acuchillada,Casa
+18,2009,Huánuco,Huánuco,26,Pareja o ex pareja,Baleada,Fuera de Casa
+19,2009,Puno,San Antonio de Putina,28,Pareja o ex pareja,Acuchillada,Casa
+20,2009,Lima,Lima,23,Pareja o ex pareja,Golpeada,Fuera de Casa
+21,2009,Ayacucho,La Mar,27,Pareja o ex pareja,Baleada,Fuera de Casa
+22,2009,Huánuco,Ambo,42,Pareja o ex pareja,Golpeada,Casa
+23,2009,Lima,Lima,25,Pareja o ex pareja,Baleada,Fuera de Casa
+24,2009,Lima,Lima,20,Pareja o ex pareja,Acuchillada,Casa
+25,2009,Puno,Melgar,34,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+26,2009,Cusco,Cusco,26,Cliente de una trabajora sexual,Acuchillada,Casa
+27,2009,Áncash,Recuay,22,Pareja o ex pareja,Baleada,Fuera de Casa
+28,2009,La Libertad,Trujillo,25,Pareja o ex pareja,Baleada,Fuera de Casa
+29,2009,Huancavelica,Acobamba,22,Pareja o ex pareja,Acuchillada,Fuera de Casa
+30,2009,Lima,Lima,23,Pareja o ex pareja,Baleada,Casa
+31,2009,San Martín,Rioja,76,Familia,Desbarrancada,Fuera de Casa
+32,2009,Ica,Pisco,49,Pareja o ex pareja,Golpeada,Casa
+33,2009,Lima,Lima,18,Pareja o ex pareja,Baleada,Casa
+34,2009,Junín,Chupaca,39,Pareja o ex pareja,Golpeada,Fuera de Casa
+35,2009,San Martín,San Martín,39,Pareja o ex pareja,Baleada,Fuera de Casa
+36,2009,San Martín,Mariscal Cáceres,38,Pareja o ex pareja,Acuchillada,Fuera de Casa
+37,2009,Áncash,Santa,30,Pareja o ex pareja,Acuchillada,Fuera de Casa
+38,2009,Lima,Lima,16,Cliente de una trabajora sexual,Asfixiada o estrangulada,Fuera de Casa
+39,2009,Lima,Lima,26,Pareja o ex pareja,Golpeada,Fuera de Casa
+40,2009,Huánuco,Leoncio Prado,24,Pareja o ex pareja,Baleada,Casa
+41,2009,Ica,Chincha,42,Pareja o ex pareja,Quemada,Casa
+42,2009,Loreto,Maynas,1,Familia,Asfixiada o estrangulada,Casa
+43,2009,Amazonas,Utcubamba,51,Pareja o ex pareja,Acuchillada,Fuera de Casa
+44,2009,La Libertad,Pataz,2,Familia,Envenenada,Casa
+45,2009,Cajamarca,San Pablo,17,Pareja o ex pareja,Envenenada,Fuera de Casa
+46,2009,Lima,Lima,46,Pareja o ex pareja,Envenenada,Casa
+47,2009,Ica,Ica,21,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+48,2009,Lambayeque,Chiclayo,35,Pareja o ex pareja,Acuchillada,Fuera de Casa
+49,2009,Tacna,Tacna,79,Familia,Acuchillada,Casa
+50,2009,Puno,Puno,16,Familia,Golpeada,Fuera de Casa
+51,2009,Cajamarca,Cajabamba,20,Pareja o ex pareja,Golpeada,Fuera de Casa
+52,2009,Lima,Lima,21,Pareja o ex pareja,Acuchillada,Fuera de Casa
+53,2009,Lima,Lima,31,Pareja o ex pareja,Baleada,Fuera de Casa
+54,2009,Junín,Huancayo,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+55,2009,Tacna,Tacna,24,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+56,2009,Cusco,Cusco,31,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+57,2009,Lima,Lima,39,Pareja o ex pareja,Baleada,Casa
+58,2009,Junín,Huancayo,12,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+59,2009,Tacna,Tacna,30,Cliente de una trabajora sexual,Golpeada,Fuera de Casa
+60,2009,Piura,Talara,26,Pareja o ex pareja,Envenenada,Casa
+61,2009,Huancavelica,Tayacaja,32,Pareja o ex pareja,Golpeada,Casa
+62,2009,Lima,Lima,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+63,2009,Huánuco,Ambo,2,Familia,Asfixiada o estrangulada,Fuera de Casa
+64,2009,Junín,Huancayo,39,Conocido,Acuchillada,Fuera de Casa
+65,2009,Junín,Chanchamayo,35,Pareja o ex pareja,Acuchillada,Casa
+66,2009,Arequipa,Arequipa,28,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+67,2009,Loreto,Maynas,32,Pareja o ex pareja,Acuchillada,Casa
+68,2009,Junín,Huancayo,45,Familia,Acuchillada,Fuera de Casa
+69,2009,Junín,Huancayo,24,Pareja o ex pareja,Acuchillada,Casa
+70,2009,Junín,Huancayo,17,Pareja o ex pareja,Baleada,Fuera de Casa
+71,2009,Cusco,Quispicanchi,17,Familia,Acuchillada,Casa
+72,2009,Tacna,Tacna,78,Conocido,Asfixiada o estrangulada,Casa
+73,2009,Puno,Puno,29,Cliente de una trabajora sexual,Asfixiada o estrangulada,Fuera de Casa
+74,2009,Lima,Cañete,42,Conocido,Asfixiada o estrangulada,Fuera de Casa
+75,2009,Ica,Chincha,61,Pareja o ex pareja,Baleada,Casa
+76,2009,Ayacucho,Víctor Fajardo,70,Familia,Golpeada,Casa
+77,2009,Pasco,Pasco,40,Familia,Golpeada,Casa
+78,2009,Callao,Callao,20,Pareja o ex pareja,Baleada,Fuera de Casa
+79,2009,Lima,Lima,36,Pareja o ex pareja,Acuchillada,Fuera de Casa
+80,2009,Ayacucho,Huamanga,3,Familia,Asfixiada o estrangulada,Fuera de Casa
+81,2009,Tacna,Tacna,20,Cliente de una trabajora sexual,Asfixiada o estrangulada,Fuera de Casa
+82,2009,Cusco,La Convención,30,Pareja o ex pareja,Baleada,Fuera de Casa
+83,2009,Cajamarca,Jaén,11,Conocido,Asfixiada o estrangulada,Fuera de Casa
+84,2009,Arequipa,Caylloma,37,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+85,2009,Junín,Huancayo,24,Pareja o ex pareja,Acuchillada,Casa
+86,2009,Arequipa,Arequipa,49,Pareja o ex pareja,Baleada,Fuera de Casa
+87,2009,Lima,Lima,50,Pareja o ex pareja,Acuchillada,Casa
+88,2009,La Libertad,Virú,2,Familia,Envenenada,Casa
+89,2009,Lambayeque,Chiclayo,24,Pareja o ex pareja,Acuchillada,Casa
+90,2009,Lima,Lima,83,Familia,Acuchillada,Casa
+91,2009,Lima,Lima,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+92,2009,Lambayeque,Chiclayo,50,Pareja o ex pareja,Acuchillada,Fuera de Casa
+93,2009,Arequipa,Caylloma,13,Familia,Golpeada,Casa
+94,2009,Lima,Lima,16,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+95,2009,Arequipa,Arequipa,55,Pareja o ex pareja,Golpeada,Casa
+96,2009,Junín,Tarma,29,Pareja o ex pareja,Golpeada,Fuera de Casa
+97,2009,Ayacucho,Huamanga,3,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+98,2009,Junín,Chupaca,28,Pareja o ex pareja,Golpeada,Casa
+99,2009,Áncash,Huaraz,51,Pareja o ex pareja,Golpeada,Casa
+100,2009,Lima,Cañete,22,Pareja o ex pareja,Acuchillada,Casa
+101,2009,Cajamarca,San Ignacio,39,Familia,Asfixiada o estrangulada,Fuera de Casa
+102,2009,Lima,Lima,16,Pareja o ex pareja,Golpeada,Casa
+103,2009,Áncash,Carhuaz,19,Conocido,Asfixiada o estrangulada,Fuera de Casa
+104,2009,Lima,Lima,15,Conocido,Asfixiada o estrangulada,Casa
+105,2009,Lima,Lima,32,Pareja o ex pareja,Golpeada,Casa
+106,2009,San Martín,San Martín,50,Conocido,Baleada,Fuera de Casa
+107,2009,Lima,Lima,36,Pareja o ex pareja,Acuchillada,Fuera de Casa
+108,2009,Piura,Paita,38,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+109,2009,Ica,Chincha,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+110,2009,Pasco,Oxapampa,19,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+111,2009,Lima,Lima,59,Pareja o ex pareja,Baleada,Casa
+112,2009,Lima,Huaura,51,Pareja o ex pareja,Acuchillada,Casa
+113,2009,Ayacucho,Huamanga,23,Pareja o ex pareja,Envenenada,Casa
+114,2009,Cusco,Cusco,12,Familia,Envenenada,Casa
+115,2009,Lima,Canta,37,Pareja o ex pareja,Acuchillada,Fuera de Casa
+116,2009,Amazonas,Utcubamba,32,Conocido,Golpeada,Fuera de Casa
+117,2009,Huánuco,Huánuco,26,Pareja o ex pareja,Golpeada,Fuera de Casa
+118,2009,Huánuco,Huánuco,35,Pareja o ex pareja,Acuchillada,Casa
+119,2009,Lima,Lima,73,Familia,Envenenada,Casa
+120,2009,Lima,Cañete,26,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+121,2009,Lima,Lima,50,Familia,Acuchillada,Casa
+122,2009,Lima,Lima,19,Pareja o ex pareja,Acuchillada,Casa
+123,2009,Puno,Puno,21,Pareja o ex pareja,Golpeada,Casa
+124,2009,Cusco,La Convención,6,Familia,Asfixiada o estrangulada,Fuera de Casa
+125,2009,Cusco,Cusco,34,Pareja o ex pareja,Golpeada,Fuera de Casa
+126,2009,San Martín,Moyobamba,47,Pareja o ex pareja,Acuchillada,Casa
+127,2009,Lima,Barranca,2,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+128,2009,Lima,Lima,14,Familia,Golpeada,Casa
+129,2009,Lima,Lima,39,Pareja o ex pareja,Acuchillada,Casa
+130,2009,Lima,Lima,45,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+131,2009,Áncash,Huaraz,26,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+132,2009,Cajamarca,Jaén,14,Pareja o ex pareja,Golpeada,Fuera de Casa
+133,2009,Ica,Ica,14,Familia,Envenenada,Casa
+134,2009,Lambayeque,Chiclayo,34,Pareja o ex pareja,Baleada,Fuera de Casa
+135,2009,Ica,Chincha,24,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+136,2009,Cajamarca,Chota,30,Pareja o ex pareja,Baleada,Fuera de Casa
+137,2009,Arequipa,Camaná,25,Pareja o ex pareja,Acuchillada,Casa
+138,2009,Ayacucho,Vilcashuamán,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+139,2009,Huánuco,Leoncio Prado,23,Pareja o ex pareja,Baleada,Casa
+140,2009,Huánuco,Huánuco,44,Conocido,Baleada,Casa
+141,2009,Cajamarca,Chota,30,Pareja o ex pareja,Acuchillada,Casa
+142,2009,Junín,Concepción,22,Pareja o ex pareja,Envenenada,Casa
+143,2009,Ayacucho,Huamanga,18,Conocido,Asfixiada o estrangulada,Fuera de Casa
+144,2009,Huancavelica,Huancavelica,20,Pareja o ex pareja,Ahorcada,Casa
+145,2009,Cajamarca,Cajamarca,20,Pareja o ex pareja,Baleada,Casa
+146,2009,Lima,Lima,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+147,2009,Lima,Lima,31,Familia,Acuchillada,Fuera de Casa
+148,2009,Cusco,Calca,33,Pareja o ex pareja,Golpeada,Fuera de Casa
+149,2009,Puno,Lampa,33,Pareja o ex pareja,Acuchillada,Casa
+150,2009,La Libertad,Trujillo,19,Pareja o ex pareja,Baleada,Casa
+151,2009,Lima,Huaral,21,Pareja o ex pareja,Acuchillada,Casa
+152,2009,Cajamarca,Cajamarca,24,Pareja o ex pareja,Baleada,Casa
+153,2009,Arequipa,Arequipa,17,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+154,2009,Lambayeque,Chiclayo,33,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+155,2010,Arequipa,Camaná,23,Pareja o ex pareja,Baleada,Casa
+156,2010,Lima,Lima,41,Pareja o ex pareja,Acuchillada,Fuera de Casa
+157,2010,Lima,Lima,16,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+158,2010,Lima,Lima,27,Pareja o ex pareja,Baleada,Casa
+159,2010,Lima,Lima,3,Conocido,Acuchillada,Fuera de Casa
+160,2010,Áncash,Pallasca,43,Pareja o ex pareja,Acuchillada,Fuera de Casa
+161,2010,San Martín,Tocache,44,Familia,Quemada,Casa
+162,2010,San Martín,Tocache,10,Familia,Quemada,Casa
+163,2010,Callao,Callao,36,Pareja o ex pareja,Desbarrancada,Casa
+164,2010,Lima,Lima,33,Familia,Acuchillada,Casa
+165,2010,Loreto,Maynas,32,Pareja o ex pareja,Acuchillada,Casa
+166,2010,Arequipa,Arequipa,47,Conocido,Golpeada,Casa
+167,2010,Apurímac,Abancay,25,Pareja o ex pareja,Acuchillada,Casa
+168,2010,Arequipa,Arequipa,29,Pareja o ex pareja,Acuchillada,Casa
+169,2010,San Martín,Moyobamba,21,Pareja o ex pareja,Baleada,Fuera de Casa
+170,2010,Ucayali,Coronel Portillo,19,Pareja o ex pareja,Golpeada,Fuera de Casa
+171,2010,Lima,Lima,38,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+172,2010,Huancavelica,Angaraes,5,Familia,Envenenada,Casa
+173,2010,Lima,Lima,15,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+174,2010,Lima,Lima,19,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+175,2010,Junín,Huancayo,21,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+176,2010,Apurímac,Andahuaylas,21,Pareja o ex pareja,Golpeada,Fuera de Casa
+177,2010,Lima,Lima,24,Cliente de una trabajora sexual,Asfixiada o estrangulada,Fuera de Casa
+178,2010,Lima,Lima,67,Conocido,Golpeada,Fuera de Casa
+179,2010,Puno,Lampa,9,Familia,Degollada,Casa
+180,2010,Lima,Cañete,29,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+181,2010,Callao,Callao,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+182,2010,Puno,San Román,24,Cliente de una trabajora sexual,Golpeada,Casa
+183,2010,Cusco,Calca,21,Pareja o ex pareja,Ahogada,Fuera de Casa
+184,2010,Cusco,Cusco,31,Pareja o ex pareja,Golpeada,Casa
+185,2010,Callao,Callao,21,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+186,2010,Lima,Lima,22,Pareja o ex pareja,Acuchillada,Fuera de Casa
+187,2010,Cusco,La Convención,46,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+188,2010,Áncash,Pallasca,46,Familia,Acuchillada,Fuera de Casa
+189,2010,Huancavelica,Huancavelica,2,Familia,Envenenada,Casa
+190,2010,Huánuco,Huánuco,38,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+191,2010,Junín,Yauli,18,Pareja o ex pareja,Acuchillada,Casa
+192,2010,Ayacucho,La Mar,3,Familia,Golpeada,Fuera de Casa
+193,2010,Lima,Lima,22,Pareja o ex pareja,Acuchillada,Casa
+194,2010,Ucayali,Coronel Portillo,52,Familia,Acuchillada,Casa
+195,2010,Ucayali,Coronel Portillo,26,Pareja o ex pareja,Acuchillada,Casa
+196,2010,Ayacucho,Huamanga,18,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+197,2010,Ayacucho,Huanta,15,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+198,2010,Lima,Lima,37,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+199,2010,Lima,Lima,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+200,2010,Lima,Lima,16,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+201,2010,Pasco,Oxapampa,28,Pareja o ex pareja,Golpeada,Casa
+202,2010,Lima,Lima,28,Pareja o ex pareja,Acuchillada,Casa
+203,2010,Tumbes,Tumbes,26,Pareja o ex pareja,Golpeada,Casa
+204,2010,Lima,Lima,14,Familia,Golpeada,Fuera de Casa
+205,2010,Lambayeque,Chiclayo,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+206,2010,Lima,Lima,31,Pareja o ex pareja,Acuchillada,Casa
+207,2010,Lambayeque,Chiclayo,22,Pareja o ex pareja,Baleada,Casa
+208,2010,Ayacucho,Lucanas,28,Pareja o ex pareja,Acuchillada,Casa
+209,2010,Piura,Morropón ,24,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+210,2010,Lima,Cañete,2,Familia,Golpeada,Casa
+211,2010,San Martín,San Martín,44,Pareja o ex pareja,Acuchillada,Fuera de Casa
+212,2010,Moquegua,General Sánchez Cerro,24,Desconocido que atacó sexualmente a la víctima,Ahogada,Fuera de Casa
+213,2010,Lima,Lima,40,Conocido,Asfixiada o estrangulada,Fuera de Casa
+214,2010,Lima,Lima,21,Conocido,Asfixiada o estrangulada,Fuera de Casa
+215,2010,Cajamarca,Chota,28,Familia,Baleada,Casa
+216,2010,Loreto,Maynas,24,Pareja o ex pareja,Acuchillada,Fuera de Casa
+217,2010,Tumbes,Tumbes,24,Pareja o ex pareja,Baleada,Fuera de Casa
+218,2010,Puno,Puno,23,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+219,2010,Junín,Junín,42,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+220,2010,Lima,Huaral,17,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+221,2010,Cusco,Calca,30,Pareja o ex pareja,Golpeada,Casa
+222,2010,Piura,Paita,17,Pareja o ex pareja,Baleada,Fuera de Casa
+223,2010,Cusco,Cusco,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+224,2010,Arequipa,Arequipa,48,Familia,Acuchillada,Casa
+225,2010,Arequipa,Arequipa,25,Pareja o ex pareja,Acuchillada,Casa
+226,2010,Piura,Paita,40,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+227,2010,Áncash,Huaraz,42,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+228,2010,Cusco,Urubamba,32,Pareja o ex pareja,Acuchillada,Fuera de Casa
+229,2010,Junín,Jauja,13,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Casa
+230,2010,Tacna,Tacna,39,Pareja o ex pareja,Golpeada,Casa
+231,2010,Lima,Lima,49,Pareja o ex pareja,Baleada,Casa
+232,2010,Loreto,Maynas,61,Pareja o ex pareja,Acuchillada,Casa
+233,2010,Lima,Lima,22,Pareja o ex pareja,Acuchillada,Casa
+234,2010,Huánuco,Leoncio Prado,7,Conocido,Acuchillada,Casa
+235,2010,Huánuco,Leoncio Prado,9,Conocido,Acuchillada,Casa
+236,2010,Cajamarca,Cutervo,30,Familia,Degollada,Fuera de Casa
+237,2010,Cajamarca,Cutervo,4,Familia,Degollada,Fuera de Casa
+238,2010,Arequipa,Arequipa,25,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+239,2010,Ayacucho,Huamanga,29,Pareja o ex pareja,Acuchillada,Fuera de Casa
+240,2010,Cajamarca,Chota,27,Pareja o ex pareja,Envenenada,Casa
+241,2010,Junín,Satipo,22,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+242,2010,Huancavelica,Castrovirreyna,80,Conocido,Asfixiada o estrangulada,Casa
+243,2010,Puno,Sandia,49,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+244,2010,Áncash,Huaraz,14,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+245,2010,Ica,Palpa,34,Pareja o ex pareja,Golpeada,Casa
+246,2010,Lima,Lima,22,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+247,2010,Lima,Lima,29,Pareja o ex pareja,Acuchillada,Casa
+248,2010,Ucayali,Coronel Portillo,33,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+249,2010,Lima,Cañete,58,Desconocido que atacó sexualmente a la víctima,Golpeada,Fuera de Casa
+250,2010,Piura,Sullana,22,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+251,2010,Puno,San Román,42,Pareja o ex pareja,Golpeada,Fuera de Casa
+252,2010,La Libertad,Trujillo,28,Pareja o ex pareja,Golpeada,Casa
+253,2010,Lima,Lima,38,Conocido,Asfixiada o estrangulada,Fuera de Casa
+254,2010,Cajamarca,Cajamarca,73,Desconocido que atacó sexualmente a la víctima,Golpeada,Casa
+255,2010,Huánuco,Huánuco,26,Pareja o ex pareja,Acuchillada,Casa
+256,2010,Lima,Lima,11 meses,Familia,Asfixiada o estrangulada,Casa
+257,2010,Lima,Lima,19,Pareja o ex pareja,Acuchillada,Casa
+258,2010,La Libertad,Sánchez Carrión,1 mes,Familia,Asfixiada o estrangulada,Casa
+259,2010,Cusco,La Convención,38,Pareja o ex pareja,Golpeada,Casa
+260,2010,Junín,Concepción,25,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+261,2010,Lima,Lima,54,Familia,Acuchillada,Casa
+262,2010,Lima,Lima,16,Desconocido que atacó sexualmente a la víctima,Golpeada,Fuera de Casa
+263,2010,Tumbes,Tumbes,20,Pareja o ex pareja,Acuchillada,Fuera de Casa
+264,2010,Ayacucho,Huamanga,5,Familia,Acuchillada,Casa
+265,2010,Junín,Junín,22,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+266,2010,Puno,San Antonio de Putina,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+267,2010,Lima,Lima,35,Cliente de una trabajora sexual,Baleada,Fuera de Casa
+268,2010,Pasco,Oxapampa,25,Pareja o ex pareja,Acuchillada,Casa
+269,2010,Lima,Lima,28,Pareja o ex pareja,Acuchillada,Fuera de Casa
+270,2010,Lima,Barranca,32,Familia,Degollada,Fuera de Casa
+271,2010,Callao,Callao,16,Pareja o ex pareja,Baleada,Casa
+272,2010,Áncash,Carhuaz,15,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+273,2010,Lima,Lima,38,Pareja o ex pareja,Acuchillada,Fuera de Casa
+274,2010,Huánuco,Yarowilca,16,Conocido,Acuchillada,Fuera de Casa
+275,2010,Áncash,Santa,26,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+276,2010,Lima,Lima,37,Pareja o ex pareja,Acuchillada,Casa
+277,2010,Ayacucho,La Mar,36,Pareja o ex pareja,Golpeada,Casa
+278,2010,Callao,Callao,14,Pareja o ex pareja,Baleada,Casa
+279,2010,Áncash,Huaraz,20,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+280,2010,Cusco,La Convención,23,Pareja o ex pareja,Acuchillada,Fuera de Casa
+281,2010,Arequipa,Arequipa,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+282,2010,Arequipa,Arequipa,21,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+283,2010,Huánuco,Leoncio Prado,38,Pareja o ex pareja,Baleada,Casa
+284,2010,Lima,Lima,24,Pareja o ex pareja,Golpeada,Casa
+285,2010,Lima,Lima,21,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+286,2010,Junín,Concepción,22,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+287,2010,Cajamarca,Cajamarca,22,Pareja o ex pareja,Baleada,Casa
+288,2010,Lima,Huaral,41,Pareja o ex pareja,Baleada,Fuera de Casa
+289,2010,Huancavelica,Tayacaja,17,Familia,Golpeada,Casa
+290,2010,Lima,Lima,16,Pareja o ex pareja,Golpeada,Casa
+291,2010,Lima,Lima,42,Pareja o ex pareja,Baleada,Casa
+292,2010,Cajamarca,Chota,28,Pareja o ex pareja,Golpeada,Fuera de Casa
+293,2010,Piura,Talara,29,Pareja o ex pareja,Acuchillada,Casa
+294,2011,Lima,Lima,6,Familia,Asfixiada o estrangulada,Casa
+295,2011,Lambayeque,Lambayeque,31,Pareja o ex pareja,Golpeada,Casa
+296,2011,Junín,Huancayo,19,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+297,2011,Lima,Lima,49,Pareja o ex pareja,Golpeada,Fuera de Casa
+298,2011,Piura,Huancabamba,28,Pareja o ex pareja,Decapitada,Casa
+299,2011,Lima,Lima,19,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+300,2011,Lambayeque,Chiclayo,43,Pareja o ex pareja,Baleada,Casa
+301,2011,Lima,Lima,45,Pareja o ex pareja,Baleada,Fuera de Casa
+302,2011,Callao,Callao,50,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+303,2011,Lima,Lima,41,Conocido,Asfixiada o estrangulada,Fuera de Casa
+304,2011,Amazonas,Utcubamba,16,Pareja o ex pareja,Acuchillada,Casa
+305,2011,Lima,Lima,24,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+306,2011,Arequipa,Arequipa,25,Pareja o ex pareja,Golpeada,Fuera de Casa
+307,2011,Junín,Huancayo,24,Conocido,Asfixiada o estrangulada,Fuera de Casa
+308,2011,Junín,Chupaca,62,Familia,Acuchillada,Fuera de Casa
+309,2011,Ayacucho,Huanta,15,Familia,Asfixiada o estrangulada,Casa
+310,2011,Tacna,Tacna,3,Conocido,Asfixiada o estrangulada,Fuera de Casa
+311,2011,Huánuco,Huamalíes,83,Conocido,Golpeada,Casa
+312,2011,Lima,Cañete,13,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+313,2011,Puno,San Antonio de Putina,20,Desconocido que atacó sexualmente a la víctima,Golpeada,Fuera de Casa
+314,2011,Lima,Lima,18,Familia,Asfixiada o estrangulada,Casa
+315,2011,Apurímac,Abancay,42,Pareja o ex pareja,Golpeada,Casa
+316,2011,Lima,Huaral,23,Pareja o ex pareja,Baleada,Fuera de Casa
+317,2011,Madre de Dios,Tahuamanu,27,Pareja o ex pareja,Baleada,Fuera de Casa
+318,2011,Madre de Dios,Tahuamanu,28,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+319,2011,Junín,Huancayo,27,Pareja o ex pareja,Golpeada,Casa
+320,2011,Puno,Puno,37,Pareja o ex pareja,Baleada,Casa
+321,2011,Lima,Lima,13,Conocido,Asfixiada o estrangulada,Casa
+322,2011,Lima,Lima,44,Pareja o ex pareja,Baleada,Casa
+323,2011,Junín,Tarma,16,Familia,Acuchillada,Casa
+324,2011,Lambayeque,Chiclayo,35,Pareja o ex pareja,Acuchillada,Casa
+325,2011,Puno,Chucuito,46,Pareja o ex pareja,Golpeada,Casa
+326,2011,Amazonas,Utcubamba,37,Pareja o ex pareja,Acuchillada,Fuera de Casa
+327,2011,Tacna,Tacna,23,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+328,2011,Cajamarca,Cajabamba,41,Pareja o ex pareja,Acuchillada,Casa
+329,2011,Áncash,Santa,29,Pareja o ex pareja,Acuchillada,Casa
+330,2011,Áncash,Santa,20,Pareja o ex pareja,Acuchillada,Casa
+331,2011,Lima,Lima,25,Pareja o ex pareja,Acuchillada,Casa
+332,2011,Lima,Lima,45,Familia,Golpeada,Casa
+333,2011,La Libertad,Trujillo,19,Pareja o ex pareja,Acuchillada,Casa
+334,2011,Tacna,Tacna,25,Pareja o ex pareja,Golpeada,Fuera de Casa
+335,2011,Junín,Chanchamayo,39,Familia,Golpeada,Fuera de Casa
+336,2011,Lima,Lima,25,Conocido,Golpeada,Fuera de Casa
+337,2011,Tacna,Tacna,21,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+338,2011,La Libertad,Trujillo,15,Desconocido que atacó sexualmente a la víctima,Golpeada,Fuera de Casa
+339,2011,Lima,Lima,33,Pareja o ex pareja,Baleada,Casa
+340,2011,Áncash,Santa,15,Pareja o ex pareja,Baleada,Casa
+341,2011,Junín,Huancayo,30,Pareja o ex pareja,Golpeada,Casa
+342,2011,Junín,Huancayo,8 meses,Familia,Golpeada,Casa
+343,2011,Junín,Satipo,45,Pareja o ex pareja,Golpeada,Fuera de Casa
+344,2011,Lambayeque,Ferreñafe,46,Pareja o ex pareja,Acuchillada,Fuera de Casa
+345,2011,Áncash,Santa,3 meses,Familia,Asfixiada o estrangulada,Casa
+346,2011,Junín,Huancayo,17,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+347,2011,Junín,Huancayo,20,Conocido,Envenenada,Casa
+348,2011,Junín,Huancayo,39,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+349,2011,Loreto,Maynas,33,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+350,2011,Moquegua,Mariscal Nieto,37,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+351,2011,Ucayali,Coronel Portillo,40,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+352,2011,Huancavelica,Huancavelica,79,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Casa
+353,2011,Áncash,Huaraz,25,Pareja o ex pareja,Golpeada,Casa
+354,2011,Huánuco,Pachitea,19,Pareja o ex pareja,Golpeada,Fuera de Casa
+355,2011,Junín,Chupaca,35,Pareja o ex pareja,Acuchillada,Casa
+356,2011,Arequipa,Arequipa,53,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+357,2011,Ayacucho,Lucanas,34,Pareja o ex pareja,Golpeada,Fuera de Casa
+358,2011,Cusco,Cusco,30,Pareja o ex pareja,Golpeada,Casa
+359,2011,Junín,Satipo,23,Pareja o ex pareja,Baleada,Casa
+360,2011,Junín,Satipo,42,Conocido,Baleada,Casa
+361,2011,Lima,Lima,26,Pareja o ex pareja,Baleada,Fuera de Casa
+362,2011,Lima,Lima,28,Pareja o ex pareja,Acuchillada,Casa
+363,2011,Puno,Huancané,80,Desconocido que atacó sexualmente a la víctima,Golpeada,Casa
+364,2011,Arequipa,Arequipa,61,Familia,Baleada,Casa
+365,2011,Cusco,Cusco,22,Conocido,Acuchillada,Fuera de Casa
+366,2011,Ica,Pisco,37,Pareja o ex pareja,Acuchillada,Fuera de Casa
+367,2011,Lima,Lima,35,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+368,2011,Lima,Huaura,40,Pareja o ex pareja,Golpeada,Fuera de Casa
+369,2011,Lima,Cañete,32,Pareja o ex pareja,Degollada,Casa
+370,2011,Ica,Ica,46,Pareja o ex pareja,Golpeada,Casa
+371,2011,San Martín,San Martín,34,Pareja o ex pareja,Acuchillada,Fuera de Casa
+372,2011,Cajamarca,Hualgayoc,82,Familia,Asfixiada o estrangulada,Casa
+373,2011,Lima,Yauyos,43,Pareja o ex pareja,Golpeada,Casa
+374,2011,Ica,Nazca,58,Familia,Acuchillada,Casa
+375,2011,Áncash,Santa,26,Pareja o ex pareja,Acuchillada,Fuera de Casa
+376,2011,Junín,Jauja,19,Pareja o ex pareja,Golpeada,Fuera de Casa
+377,2011,Junín,Huancayo,25,Pareja o ex pareja,Golpeada,Fuera de Casa
+378,2011,Ica,Ica,26,Pareja o ex pareja,Golpeada,Casa
+379,2011,Lima,Lima,36,Pareja o ex pareja,Golpeada,Casa
+380,2011,Áncash,Huari,17,Pareja o ex pareja,Golpeada,Fuera de Casa
+381,2011,Áncash,Huari,4 meses,Familia,Desbarrancada,Fuera de Casa
+382,2011,Junín,Satipo,40,Pareja o ex pareja,Acuchillada,Casa
+383,2011,Tumbes,Tumbes,35,Pareja o ex pareja,Acuchillada,Casa
+384,2011,Lima,Lima,33,Pareja o ex pareja,Acuchillada,Casa
+385,2011,Áncash,Santa,45,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+386,2011,Puno,Puno,23,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+387,2011,Lima,Lima,5,Familia,Asfixiada o estrangulada,Casa
+388,2011,Puno,Puno,20,Pareja o ex pareja,Acuchillada,Casa
+389,2011,Lima,Lima,19,Pareja o ex pareja,Acuchillada,Casa
+390,2011,Cusco,Cusco,44,Pareja o ex pareja,Baleada,Casa
+391,2011,Loreto,Datem del Marañon,40,Pareja o ex pareja,Acuchillada,Casa
+392,2011,Loreto,Datem del Marañon,14,Familia,Acuchillada,Casa
+393,2011,Lima,Lima,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+394,2011,Lima,Lima,21,Pareja o ex pareja,Baleada,Fuera de Casa
+395,2011,Cusco,Calca,24,Pareja o ex pareja,Golpeada,Casa
+396,2011,Cajamarca,Jaén,19,Pareja o ex pareja,Acuchillada,Fuera de Casa
+397,2011,Áncash,Huaraz,8,Familia,Asfixiada o estrangulada,Fuera de Casa
+398,2011,Lima,Lima,46,Pareja o ex pareja,Acuchillada,Casa
+399,2011,Lima,Lima,35,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+400,2011,Cajamarca,Chota,25,Conocido,Acuchillada,Fuera de Casa
+401,2011,Amazonas,Utcubamba,32,Pareja o ex pareja,Baleada,Casa
+402,2011,Ayacucho,Huamanga,22,Conocido,Asfixiada o estrangulada,Fuera de Casa
+403,2011,Lima,Lima,27,Pareja o ex pareja,Acuchillada,Casa
+404,2011,Lima,Lima,3,Familia,Acuchillada,Casa
+405,2011,Lima,Lima,4,Familia,Acuchillada,Casa
+406,2011,Junín,Huancayo,19,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+407,2011,Arequipa,Caylloma,22,Pareja o ex pareja,Golpeada,Casa
+408,2011,Lima,Lima,42,Pareja o ex pareja,Acuchillada,Fuera de Casa
+409,2011,Lima,Lima,20,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+410,2011,Lima,Lima,40,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+411,2011,La Libertad,Pacasmayo,32,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+412,2011,Puno,Melgar,41,Familia,Baleada,Casa
+413,2011,Lima,Lima,48,Pareja o ex pareja,Golpeada,Casa
+414,2011,Lima,Lima,48,Pareja o ex pareja,Acuchillada,Casa
+415,2011,Pasco,Oxapampa,45,Pareja o ex pareja,Golpeada,Casa
+416,2011,Cajamarca,Cajabamba,41,Pareja o ex pareja,Golpeada,Fuera de Casa
+417,2012,Lima,Lima,30,Pareja o ex pareja,Acuchillada,Fuera de Casa
+418,2012,Callao,Callao,34,Pareja o ex pareja,Baleada,Casa
+419,2012,Apurímac,Abancay,51,Familia,Acuchillada,Casa
+420,2012,Lima,Lima,26,Pareja o ex pareja,No se ha determinado por avanzado estado de descomposición,Casa
+421,2012,Ayacucho,Huamanga,38,Familia,Acuchillada,Fuera de Casa
+422,2012,Lambayeque,Lambayeque,16,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+423,2012,Pasco,Pasco,24,Pareja o ex pareja,Golpeada,Fuera de Casa
+424,2012,Lima,Lima,37,Pareja o ex pareja,Golpeada,Fuera de Casa
+425,2012,Loreto,Maynas,15,Pareja o ex pareja,Baleada,Fuera de Casa
+426,2012,Cusco,Cusco,33,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+427,2012,Lima,Lima,23,Pareja o ex pareja,Baleada,Fuera de Casa
+428,2012,Lima,Lima,30,Pareja o ex pareja,Desbarrancada,Casa
+429,2012,Puno,San Román,40,Pareja o ex pareja,Acuchillada,Casa
+430,2012,La Libertad,Trujillo,38,Pareja o ex pareja,Atropellada,Fuera de Casa
+431,2012,Arequipa,Caylloma,21,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+432,2012,Cusco,Cusco,21,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+433,2012,Madre de Dios,Manu,20,Pareja o ex pareja,Golpeada,Fuera de Casa
+434,2012,Lima,Cañete,29,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+435,2012,Lima,Lima,25,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+436,2012,Junín,Huancayo,27,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+437,2012,Tacna,Tacna,27,Pareja o ex pareja,Baleada,Fuera de Casa
+438,2012,Arequipa,Arequipa,35,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+439,2012,Junín,Concepción,31,Pareja o ex pareja,Acuchillada,Casa
+440,2012,Lima,Lima,29,Pareja o ex pareja,Quemada,Casa
+441,2012,Lima,Lima,20,Pareja o ex pareja,Acuchillada,Casa
+442,2012,Lima,Lima,30,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+443,2012,Ayacucho,Huamanga,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+444,2012,Cajamarca,San Pablo,41,Pareja o ex pareja,Acuchillada,Fuera de Casa
+445,2012,Piura,Ayabaca,33,Desconocido que atacó sexualmente a la víctima,Acuchillada,Fuera de Casa
+446,2012,Lambayeque,Chiclayo,21,Pareja o ex pareja,Golpeada,Fuera de Casa
+447,2012,Ica,Nazca,36,Conocido,Baleada,Fuera de Casa
+448,2012,La Libertad,Trujillo,33,Pareja o ex pareja,Baleada,Fuera de Casa
+449,2012,Madre de Dios,Tambopata,18,Pareja o ex pareja,Acuchillada,Fuera de Casa
+450,2012,Lima,Lima,19,Pareja o ex pareja,Acuchillada,Casa
+451,2012,Junín,Huancayo,13,Conocido,Acuchillada,Fuera de Casa
+452,2012,Puno,Sandia,12,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+453,2012,Huancavelica,Tayacaja,61,Familia,Golpeada,Fuera de Casa
+454,2012,Huancavelica,Huaytará ,34,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+455,2012,Lima,Lima,26,Pareja o ex pareja,Baleada,Casa
+456,2012,Junín,Satipo,22,Pareja o ex pareja,Acuchillada,Fuera de Casa
+457,2012,Huánuco,Puerto Inca,15,Familia,Acuchillada,Fuera de Casa
+458,2012,Lambayeque,Chiclayo,24,Pareja o ex pareja,Baleada,Fuera de Casa
+459,2012,La Libertad,Trujillo,17,Pareja o ex pareja,Acuchillada,Fuera de Casa
+460,2012,San Martín,Rioja,16,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+461,2012,Junín,Huancayo,76,Familia,Asfixiada o estrangulada,Casa
+462,2012,Lima,Lima,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+463,2012,Madre de Dios,Tambopata,28,Pareja o ex pareja,Baleada,Fuera de Casa
+464,2012,Cajamarca,Chota,20,Pareja o ex pareja,Envenenada,Casa
+465,2012,Junín,Huancayo,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+466,2012,Lima,Lima,26,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+467,2012,Huánuco,Puerto Inca,29,Pareja o ex pareja,Acuchillada,Fuera de Casa
+468,2012,Cajamarca,Jaén,37,Pareja o ex pareja,Acuchillada,Casa
+469,2012,La Libertad,Trujillo,34,Pareja o ex pareja,Acuchillada,Fuera de Casa
+470,2012,Ayacucho,La Mar,53,Pareja o ex pareja,Envenenada,Fuera de Casa
+471,2012,Huánuco,Pachitea,21,Familia,Golpeada,Fuera de Casa
+472,2012,Áncash,Santa,24,Pareja o ex pareja,Golpeada,Casa
+473,2012,Ayacucho,Huanta,44,Pareja o ex pareja,Baleada,Fuera de Casa
+474,2012,Lambayeque,Chiclayo,41,Pareja o ex pareja,Golpeada,Casa
+475,2012,Madre de Dios,Tambopata,20,Pareja o ex pareja,Decapitada,Fuera de Casa
+476,2012,Junín,Huancayo,30,Pareja o ex pareja,Golpeada,Fuera de Casa
+477,2012,Puno,San Román,40,Familia,Golpeada,Casa
+478,2012,Callao,Callao,25,Conocido,Envenenada,Casa
+479,2012,Puno,Chucuito,25,Pareja o ex pareja,Golpeada,Fuera de Casa
+480,2012,Lima,Lima,35,Pareja o ex pareja,Acuchillada,Casa
+481,2012,Lima,Lima,25,Pareja o ex pareja,No se ha determinado por avanzado estado de descomposición,Casa
+482,2012,Amazonas,Bongará,33,Pareja o ex pareja,Baleada,Fuera de Casa
+483,2012,Puno,Puno,29,Pareja o ex pareja,Acuchillada,Casa
+484,2012,Lima,Lima,29,Pareja o ex pareja,Baleada,Casa
+485,2012,Cajamarca,Chota,31,Pareja o ex pareja,Baleada,Fuera de Casa
+486,2012,Lima,Lima,26,Pareja o ex pareja,Golpeada,Casa
+487,2012,Ucayali,Padre Abad,33,Pareja o ex pareja,Golpeada,Fuera de Casa
+488,2012,Loreto,Alto Amazonas,24,Pareja o ex pareja,Acuchillada,Fuera de Casa
+489,2012,Pasco,Oxapampa,25,Pareja o ex pareja,Golpeada,Casa
+490,2012,Puno,Azángaro,19,Pareja o ex pareja,Acuchillada,Fuera de Casa
+491,2012,Piura,Piura,54,Familia,Baleada,Casa
+492,2012,Arequipa,Arequipa,20,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+493,2012,Huancavelica,Acobamba,41,Pareja o ex pareja,Golpeada,Fuera de Casa
+494,2012,Tacna,Tacna,28,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+495,2012,Cajamarca,Chota,30,Pareja o ex pareja,Baleada,Casa
+496,2012,Callao,Callao,31,Pareja o ex pareja,Acuchillada,Casa
+497,2012,Ica,Chincha,20,Pareja o ex pareja,Degollada,Fuera de Casa
+498,2012,Loreto,Maynas,23,Pareja o ex pareja,Golpeada,Casa
+499,2012,Huánuco,Huánuco,26,Pareja o ex pareja,Baleada,Fuera de Casa
+500,2012,Arequipa,Camaná,81,Pareja o ex pareja,Baleada,Casa
+501,2012,Huánuco,Huánuco,45,Pareja o ex pareja,Golpeada,Fuera de Casa
+502,2012,Áncash,Pomabamba,51,Pareja o ex pareja,Acuchillada,Casa
+503,2012,Huancavelica,Churcampa,24,Pareja o ex pareja,Envenenada,Casa
+504,2012,Lambayeque,Chiclayo,32,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+505,2012,Lima,Lima,27,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+506,2012,Lima,Lima,49,Pareja o ex pareja,Acuchillada,Fuera de Casa
+507,2012,Junín,Yauli,28,Pareja o ex pareja,Acuchillada,Casa
+508,2012,La Libertad,Otuzco,21,Pareja o ex pareja,Baleada,Casa
+509,2012,Huancavelica,Huancavelica,47,Pareja o ex pareja,Baleada,Casa
+510,2012,Lima,Lima,42,Pareja o ex pareja,Acuchillada,Casa
+511,2012,Lima,Lima,71,Familia,Acuchillada,Casa
+512,2012,Lima,Cañete,79,Desconocido que atacó sexualmente a la víctima,Golpeada,Casa
+513,2012,Áncash,Yungay,18,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+514,2012,Ayacucho,Huamanga,63,Pareja o ex pareja,Golpeada,Casa
+515,2012,Áncash,Santa,41,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+516,2012,Pasco,Pasco,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+517,2012,Junín,Chupaca,15,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+518,2012,Tacna,Tacna,37,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+519,2012,Lima,Lima,31,Pareja o ex pareja,Golpeada,Fuera de Casa
+520,2012,Puno,Huancané,35,Pareja o ex pareja,Golpeada,Casa
+521,2012,Tacna,Tacna,35,Pareja o ex pareja,Golpeada,Casa
+522,2012,Amazonas,Bagua,12,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+523,2012,Tacna,Tacna,26,Conocido,Asfixiada o estrangulada,Fuera de Casa
+524,2012,Ayacucho,La Mar,33,Pareja o ex pareja,Acuchillada,Casa
+525,2012,Madre de Dios,Tambopata,22,Pareja o ex pareja,Baleada,Fuera de Casa
+526,2012,Callao,Callao,22,Pareja o ex pareja,Degollada,Casa
+527,2012,Cajamarca,Jaén,24,Pareja o ex pareja,Baleada,Fuera de Casa
+528,2012,Lima,Lima,29,Pareja o ex pareja,Desbarrancada,Casa
+529,2012,Huánuco,Huánuco,44,Pareja o ex pareja,Golpeada,Casa
+530,2012,San Martín,Rioja,22,Pareja o ex pareja,Acuchillada,Fuera de Casa
+531,2012,Callao,Callao,51,Familia,Acuchillada,Casa
+532,2012,La Libertad,Trujillo,25,Pareja o ex pareja,Degollada,Fuera de Casa
+533,2012,Tacna,Tacna,24,Pareja o ex pareja,Acuchillada,Casa
+534,2012,Lima,Lima,31,Pareja o ex pareja,Acuchillada,Casa
+535,2012,Lima,Lima,50,Familia,Acuchillada,Casa
+536,2012,Lima,Lima,39,Pareja o ex pareja,Baleada,Casa
+537,2012,Lima,Huaura,51,Pareja o ex pareja,Acuchillada,Fuera de Casa
+538,2012,Lima,Lima,20,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+539,2013,Lima,Barranca,27,Pareja o ex pareja,Baleada,Casa
+540,2013,Lima,Lima,11,Familia,Envenenada,Casa
+541,2013,Lima,Lima,9,Familia,Envenenada,Casa
+542,2013,Lima,Lima,20,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+543,2013,Tacna,Tacna,25,Pareja o ex pareja,Golpeada,Casa
+544,2013,Tacna,Tacna,7,Familia,Asfixiada o estrangulada,Casa
+545,2013,Tacna,Tacna,34,Pareja o ex pareja,Golpeada,Fuera de Casa
+546,2013,Junín,Concepción,3,Familia,Envenenada,Casa
+547,2013,Piura,Sullana,34,Pareja o ex pareja,Acuchillada,Casa
+548,2013,Lima,Lima,19,Pareja o ex pareja,Envenenada,Casa
+549,2013,Lima,Lima,24,Pareja o ex pareja,Acuchillada,Casa
+550,2013,Lima,Lima,41,Pareja o ex pareja,Baleada,Fuera de Casa
+551,2013,Piura,Piura,30,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+552,2013,Piura,Huancabamba,22,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+553,2013,La Libertad,Julcán,23,Pareja o ex pareja,Baleada,Fuera de Casa
+554,2013,La Libertad,Julcán,40,Conocido,Baleada,Fuera de Casa
+555,2013,Huancavelica,Churcampa,56,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Casa
+556,2013,Puno,Huancané,19,Pareja o ex pareja,Degollada,Fuera de Casa
+557,2013,Áncash,Santa,17,Pareja o ex pareja,Baleada,Fuera de Casa
+558,2013,Lima,Lima,27,Pareja o ex pareja,Degollada,Casa
+559,2013,Ica,Nazca,23,Pareja o ex pareja,Acuchillada,Fuera de Casa
+560,2013,Áncash,Santa,19,Pareja o ex pareja,Baleada,Fuera de Casa
+561,2013,Pasco,Oxapampa,22,Pareja o ex pareja,Baleada,Casa
+562,2013,Ayacucho,Huanta,17,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+563,2013,Lima,Lima,29,Pareja o ex pareja,Baleada,Fuera de Casa
+564,2013,Arequipa,Arequipa,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+565,2013,Callao,Callao,42,Pareja o ex pareja,Golpeada,Fuera de Casa
+566,2013,Apurímac,Andahuaylas,17,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+567,2013,Junín,Satipo,21,Pareja o ex pareja,Golpeada,Fuera de Casa
+568,2013,Lima,Lima,25,Pareja o ex pareja,Acuchillada,Casa
+569,2013,Lima,Lima,32,Pareja o ex pareja,Baleada,Casa
+570,2013,Lima,Lima,22,Desconocido que atacó sexualmente a la víctima,Golpeada,Fuera de Casa
+571,2013,Lima,Lima,41,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+572,2013,Lima,Lima,16,Conocido,Intoxicada por suministro de anestesia,Casa
+573,2013,San Martín,San Martín,10,Desconocido que atacó sexualmente a la víctima,Acuchillada,Fuera de Casa
+574,2013,Cajamarca,Cajamarca,44,Pareja o ex pareja,Acuchillada,Casa
+575,2013,Amazonas,Utcubamba,34,Pareja o ex pareja,Baleada,Fuera de Casa
+576,2013,Tacna,Tacna,15,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+577,2013,Ica,Ica,32,Pareja o ex pareja,Baleada,Casa
+578,2013,Puno,San Román,24,Pareja o ex pareja,Golpeada,Fuera de Casa
+579,2013,Puno,San Román,38,Pareja o ex pareja,Desbarrancada,Casa
+580,2013,Lima,Lima,34,Pareja o ex pareja,Acuchillada,Casa
+581,2013,Huánuco,Pachitea,27,Pareja o ex pareja,Golpeada,Fuera de Casa
+582,2013,Lima,Barranca,27,Pareja o ex pareja,Acuchillada,Casa
+583,2013,Lima,Barranca,2,Familia,Acuchillada,Casa
+584,2013,Cajamarca,Jaén,29,Pareja o ex pareja,Baleada,Fuera de Casa
+585,2013,Junín,Chupaca,28,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+586,2013,Cajamarca,Chota,31,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+587,2013,Lambayeque,Chiclayo,21,Pareja o ex pareja,Degollada,Fuera de Casa
+588,2013,Cajamarca,Cajamarca,18,Pareja o ex pareja,Baleada,Casa
+589,2013,Lima,Lima,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+590,2013,Ica,Chincha,19,Pareja o ex pareja,Baleada,Casa
+591,2013,Lima,Lima,39,Pareja o ex pareja,Envenenada,Casa
+592,2013,Lima,Lima,33,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+593,2013,Ayacucho,Huamanga,28,Pareja o ex pareja,Baleada,Casa
+594,2013,Lima,Lima,22,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+595,2013,Lambayeque,Ferreñafe,21,Pareja o ex pareja,Acuchillada,Casa
+596,2013,Lima,Lima,28,Pareja o ex pareja,Baleada,Casa
+597,2013,Cusco,Cusco,30,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+598,2013,Apurímac,Cotabambas,52,Pareja o ex pareja,Acuchillada,Casa
+599,2013,Ayacucho,Huamanga,20,Conocido,Múltiples desgarros a nivel perianal post violación,Fuera de Casa
+600,2013,Lima,Lima,46,Pareja o ex pareja,Baleada,Casa
+601,2013,Lima,Lima,28,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+602,2013,Lima,Lima,37,Pareja o ex pareja,Baleada,Fuera de Casa
+603,2013,Arequipa,Arequipa,27,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+604,2013,Arequipa,Arequipa,3,Familia,Envenenada,Casa
+605,2013,Huánuco,Huánuco,15,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+606,2013,Lambayeque,Lambayeque,26,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+607,2013,Lima,Lima,51,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+608,2013,Lima,Lima,32,Pareja o ex pareja,Golpeada,Casa
+609,2013,Lima,Lima,29,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+610,2013,Callao,Callao,36,Pareja o ex pareja,Acuchillada,Fuera de Casa
+611,2013,Lima,Lima,36,Pareja o ex pareja,Golpeada,Casa
+612,2013,Lima,Lima,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+613,2013,Lima,Lima,25,Pareja o ex pareja,Baleada,Casa
+614,2013,Áncash,Yungay,28,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+615,2013,Áncash,Yungay,9,Familia,Desbarrancada,Fuera de Casa
+616,2013,Huancavelica,Castrovirreyna,21,Pareja o ex pareja,Golpeada,Fuera de Casa
+617,2013,Amazonas,Chachapoyas,77,Familia,Golpeada,Casa
+618,2013,Apurímac,Cotabambas,28,Pareja o ex pareja,Quemada,Fuera de Casa
+619,2013,Pasco,Oxapampa,38,Pareja o ex pareja,Baleada,Fuera de Casa
+620,2013,Tacna,Tacna,53,Conocido,Quemada,Casa
+621,2013,Tacna,Tacna,20,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+622,2013,Pasco,Oxapampa,37,Pareja o ex pareja,Acuchillada,Fuera de Casa
+623,2013,Huancavelica,Churcampa,22,Pareja o ex pareja,Acuchillada,Casa
+624,2013,Lambayeque,Lambayeque,54,Pareja o ex pareja,Acuchillada,Fuera de Casa
+625,2013,Lima,Lima,21,Pareja o ex pareja,Acuchillada,Fuera de Casa
+626,2013,Pasco,Pasco,28,Pareja o ex pareja,Atropellada,Fuera de Casa
+627,2013,Lima,Huaura,86,Conocido,Golpeada,Casa
+628,2013,Áncash,Huaraz,24,Pareja o ex pareja,Golpeada,Fuera de Casa
+629,2013,Cajamarca,Cajamarca,61,Pareja o ex pareja,Acuchillada,Casa
+630,2013,Apurímac,Andahuaylas,21,Pareja o ex pareja,Golpeada,Fuera de Casa
+631,2013,Lima,Lima,17,Pareja o ex pareja,Acuchillada,Fuera de Casa
+632,2013,Piura,Paita,38,Pareja o ex pareja,Acuchillada,Casa
+633,2013,Tacna,Tacna,21,Pareja o ex pareja,Acuchillada,Casa
+634,2013,Lima,Lima,25,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+635,2013,Lima,Lima,20,Pareja o ex pareja,Envenenada,Casa
+636,2013,Huánuco,Leoncio Prado,35,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+637,2013,Loreto,Alto Amazonas,26,Pareja o ex pareja,Acuchillada,Fuera de Casa
+638,2013,Áncash,Yungay,21,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+639,2013,Ucayali,Coronel Portillo,38,Pareja o ex pareja,Acuchillada,Fuera de Casa
+640,2013,Piura,Ayabaca,23,Desconocido que atacó sexualmente a la víctima,Acuchillada,Fuera de Casa
+641,2013,Lima,Lima,40,Pareja o ex pareja,Baleada,Casa
+642,2013,Cajamarca,Cutervo,25,Pareja o ex pareja,Acuchillada,Fuera de Casa
+643,2013,Tumbes,Tumbes,24,Pareja o ex pareja,Acuchillada,Casa
+644,2013,Lima,Lima,41,Pareja o ex pareja,Acuchillada,Casa
+645,2013,Lima,Lima,29,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+646,2013,Ucayali,Atalaya,28,Pareja o ex pareja,Baleada,Casa
+647,2013,Lima,Lima,23,Pareja o ex pareja,Acuchillada,Fuera de Casa
+648,2014,La Libertad,Trujillo,38,Pareja o ex pareja,Golpeada,Casa
+649,2014,Lambayeque,Chiclayo,56,Pareja o ex pareja,Golpeada,Casa
+650,2014,Lima,Huarochirí,29,Pareja o ex pareja,Acuchillada,Fuera de Casa
+651,2014,Lima,Lima,43,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+652,2014,Arequipa,Camaná,17,Conocido,Asfixiada o estrangulada,Fuera de Casa
+653,2014,Puno,San Román,27,Pareja o ex pareja,Baleada,Fuera de Casa
+654,2014,Arequipa,Castilla,17,Conocido,Asfixiada o estrangulada,Casa
+655,2014,Lima,Lima,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+656,2014,Moquegua,Ilo,20,Pareja o ex pareja,Golpeada,Casa
+657,2014,Lima,Lima,39,Pareja o ex pareja,Acuchillada,Casa
+658,2014,Arequipa,Arequipa,43,Pareja o ex pareja,Acuchillada,Fuera de Casa
+659,2014,Puno,San Román,41,Pareja o ex pareja,Golpeada,Fuera de Casa
+660,2014,Junín,Huancayo,17,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+661,2014,Arequipa,Caylloma,24,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+662,2014,Lima,Lima,26,Pareja o ex pareja,Acuchillada,Fuera de Casa
+663,2014,Cusco,Cusco,15,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+664,2014,Lima,Lima,33,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+665,2014,Lima,Lima,29,Cliente de una trabajora sexual,Asfixiada o estrangulada,Fuera de Casa
+666,2014,Callao,Callao,51,Pareja o ex pareja,Baleada,Fuera de Casa
+667,2014,Puno,San Román,20,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+668,2014,Arequipa,Islay,22,Pareja o ex pareja,Golpeada,Fuera de Casa
+669,2014,Cusco,Cusco,30,Pareja o ex pareja,Acuchillada,Fuera de Casa
+670,2014,Ayacucho,Huamanga,48,Pareja o ex pareja,Golpeada,Fuera de Casa
+671,2014,Arequipa,Camaná,28,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+672,2014,Loreto,Maynas,47,Pareja o ex pareja,Golpeada,Fuera de Casa
+673,2014,La Libertad,Chepén,20,Pareja o ex pareja,Ahogada,Fuera de Casa
+674,2014,Junín,Chanchamayo,25,Pareja o ex pareja,Golpeada,Casa
+675,2014,Cusco,La Convención,20,Pareja o ex pareja,Acuchillada,Casa
+676,2014,Piura,Piura,26,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+677,2014,Áncash,Carhuaz,22,Pareja o ex pareja,No se ha determinado por avanzado estado de descomposición,Fuera de Casa
+678,2014,Huánuco,Leoncio Prado,48,Pareja o ex pareja,Golpeada,Casa
+679,2014,Áncash,Huari,34,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+680,2014,Huánuco,Puerto Inca,30,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+681,2014,Arequipa,Arequipa,18,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+682,2014,La Libertad,Chepén,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+683,2014,San Martín,Lamas,37,Pareja o ex pareja,Baleada,Fuera de Casa
+684,2014,Lima,Lima,18,Pareja o ex pareja,Acuchillada,Fuera de Casa
+685,2014,La Libertad,Virú,46,Pareja o ex pareja,Acuchillada,Casa
+686,2014,Lambayeque,Chiclayo,19,Familia,Envenenada,Casa
+687,2014,Huánuco,Huánuco,49,Pareja o ex pareja,Golpeada,Casa
+688,2014,Lima,Lima,54,Pareja o ex pareja,Golpeada,Fuera de Casa
+689,2014,Huánuco,Huánuco,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+690,2014,Lima,Lima,17,Pareja o ex pareja,Envenenada,Casa
+691,2014,Lima,Lima,15,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+692,2014,Puno,Puno,27,Pareja o ex pareja,Acuchillada,Casa
+693,2014,Lima,Lima,24,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+694,2014,Lima,Lima,23,Pareja o ex pareja,Acuchillada,Casa
+695,2014,Arequipa,Arequipa,30,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+696,2014,Lima,Huaura,31,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+697,2014,Cusco,Cusco,50,Pareja o ex pareja,Golpeada,Casa
+698,2014,Lima,Lima,33,Pareja o ex pareja,Baleada,Casa
+699,2014,Lima,Lima,24,Pareja o ex pareja,Golpeada,Casa
+700,2014,Lima,Lima,27,Pareja o ex pareja,Baleada,Fuera de Casa
+701,2014,Arequipa,Arequipa,34,Pareja o ex pareja,Acuchillada,Fuera de Casa
+702,2014,Pasco,Oxapampa,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+703,2014,Lima,Lima,23,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+704,2014,Puno,Lampa,41,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+705,2014,Lima,Lima,18,Pareja o ex pareja,Acuchillada,Casa
+706,2014,Arequipa,Caylloma,37,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+707,2014,Arequipa,Camaná,31,Pareja o ex pareja,Golpeada,Casa
+708,2014,Lima,Huaura,34,Conocido,Golpeada,Fuera de Casa
+709,2014,Ayacucho,Vilcashuamán,28,Pareja o ex pareja,Golpeada,Fuera de Casa
+710,2014,Junín,Concepción,88,Conocido,Asfixiada o estrangulada,Casa
+711,2014,Cusco,Canas,47,Pareja o ex pareja,Golpeada,Fuera de Casa
+712,2014,La Libertad,Pataz,36,Pareja o ex pareja,Acuchillada,Casa
+713,2014,Cusco,Canchis,27,Pareja o ex pareja,Golpeada,Casa
+714,2014,Cajamarca,Cajabamba,20,Pareja o ex pareja,Acuchillada,Casa
+715,2014,Lima,Lima,44,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+716,2014,Ucayali,Padre Abad,25,Pareja o ex pareja,Baleada,Casa
+717,2014,Huánuco,Huánuco,22,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+718,2014,Tacna,Tacna,23,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+719,2014,Lima,Lima,29,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+720,2014,Lima,Lima,44,Pareja o ex pareja,Acuchillada,Casa
+721,2014,Junín,Satipo,23,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+722,2014,Ica,Ica,34,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+723,2014,Puno,Carabaya,34,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+724,2014,Piura,Piura,49,Pareja o ex pareja,Golpeada,Fuera de Casa
+725,2014,Pasco,Pasco,18,Pareja o ex pareja,Envenenada,Fuera de Casa
+726,2014,Pasco,Oxapampa,25,Pareja o ex pareja,Golpeada,Fuera de Casa
+727,2014,Loreto,Alto Amazonas,33,Pareja o ex pareja,Acuchillada,Fuera de Casa
+728,2014,Lima,Lima,21,Pareja o ex pareja,Acuchillada,Casa
+729,2014,Lima,Lima,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+730,2014,Lima,Lima,42,Pareja o ex pareja,Baleada,Casa
+731,2014,Lima,Lima,24,Pareja o ex pareja,Acuchillada,Casa
+732,2014,Cusco,Cusco,24,Pareja o ex pareja,Acuchillada,Casa
+733,2014,Lima,Lima,22,Pareja o ex pareja,Golpeada,Casa
+734,2014,Lambayeque,Lambayeque,21,Pareja o ex pareja,Acuchillada,Casa
+735,2014,Lima,Lima,44,Familia,Acuchillada,Casa
+736,2014,Puno,Chucuito,30,Pareja o ex pareja,Envenenada,Casa
+737,2014,Callao,Callao,22,Pareja o ex pareja,Baleada,Casa
+738,2014,Callao,Callao,76,Familia,Baleada,Casa
+739,2014,Lima,Lima,30,Pareja o ex pareja,Baleada,Casa
+740,2014,Ayacucho,La Mar,19,Pareja o ex pareja,Acuchillada,Casa
+741,2014,Lambayeque,Ferreñafe,25,Pareja o ex pareja,Acuchillada,Casa
+742,2014,Cusco,Calca,43,Pareja o ex pareja,Ahogada,Fuera de Casa
+743,2014,Lima,Lima,17,Familia,Asfixiada o estrangulada,Casa
+744,2014,Amazonas,Utcubamba,17,Conocido,Baleada,Fuera de Casa
+745,2015,Arequipa,Arequipa,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+746,2015,Callao,Callao,18,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+747,2015,Cusco,Cusco,24,Pareja o ex pareja,Envenenada,Fuera de Casa
+748,2015,Lima,Lima,25,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+749,2015,Lima,Lima,17,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+750,2015,Lima,Lima,26,Pareja o ex pareja,Acuchillada,Casa
+751,2015,Callao,Callao,33,Pareja o ex pareja,Baleada,Fuera de Casa
+752,2015,Lima,Lima,19,Pareja o ex pareja,Acuchillada,Casa
+753,2015,Lima,Lima,15,Familia,Asfixiada o estrangulada,Fuera de Casa
+754,2015,Cajamarca,Cajamarca,29,Pareja o ex pareja,Acuchillada,Fuera de Casa
+755,2015,Cajamarca,Cajamarca,57,Familia,Acuchillada,Fuera de Casa
+756,2015,Ucayali,Coronel Portillo,19,Pareja o ex pareja,Envenenada,Fuera de Casa
+757,2015,Piura,Piura,27,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+758,2015,Lima,Lima,46,Pareja o ex pareja,Acuchillada,Fuera de Casa
+759,2015,Arequipa,Arequipa,31,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+760,2015,Apurímac,Abancay,55,Pareja o ex pareja,Acuchillada,Casa
+761,2015,Apurímac,Antabamba,14,Desconocido que atacó sexualmente a la víctima,Golpeada,Fuera de Casa
+762,2015,Ayacucho,Huanta,28,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+763,2015,Lima,Lima,24,Pareja o ex pareja,Acuchillada,Casa
+764,2015,Callao,Callao,22,Pareja o ex pareja,Baleada,Fuera de Casa
+765,2015,La Libertad,Trujillo,70,Pareja o ex pareja,Golpeada,Casa
+766,2015,Huancavelica,Huancavelica,4,Desconocido que atacó sexualmente a la víctima,Asfixiada o estrangulada,Fuera de Casa
+767,2015,Lima,Lima,32,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+768,2015,Arequipa,Arequipa,46,Pareja o ex pareja,Acuchillada,Casa
+769,2015,Cajamarca,Chota,41,Pareja o ex pareja,Acuchillada,Casa
+770,2015,Lima,Lima,22,Pareja o ex pareja,Baleada,Fuera de Casa
+771,2015,Lima,Lima,18,Pareja o ex pareja,Acuchillada,Casa
+772,2015,Lima,Lima,32,Pareja o ex pareja,Acuchillada,Casa
+773,2015,Lima,Lima,19,Pareja o ex pareja,Baleada,Casa
+774,2015,San Martín,San Martín,40,Pareja o ex pareja,Acuchillada,Casa
+775,2015,Piura,Huancabamba,20,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+776,2015,Áncash,Huaraz,19,Pareja o ex pareja,Desbarrancada,Fuera de Casa
+777,2015,Arequipa,Arequipa,24,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+778,2015,Lima,Lima,20,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+779,2015,Ica,Pisco,20,Pareja o ex pareja,Baleada,Fuera de Casa
+780,2015,Huánuco,Leoncio Prado,39,Pareja o ex pareja,Baleada,Casa
+781,2015,Ucayali,Coronel Portillo,28,Pareja o ex pareja,Golpeada,Fuera de Casa
+782,2015,Lima,Lima,23,Pareja o ex pareja,Baleada,Casa
+783,2015,Cusco,Cusco,44,Pareja o ex pareja,Acuchillada,Casa
+784,2015,Arequipa,Arequipa,47,Pareja o ex pareja,Golpeada,Casa
+785,2015,Ica,Pisco,18,Pareja o ex pareja,Baleada,Casa
+786,2015,Lima,Lima,27,Pareja o ex pareja,Baleada,Fuera de Casa
+787,2015,Junín,Huancayo,40,Pareja o ex pareja,Golpeada,Casa
+788,2015,Moquegua,Mariscal Nieto,55,Pareja o ex pareja,Golpeada,Casa
+789,2015,Ayacucho,Huamanga,22,Pareja o ex pareja,Acuchillada,Casa
+790,2015,Lima,Lima,31,Pareja o ex pareja,Golpeada,Casa
+791,2015,Lima,Lima,41,Pareja o ex pareja,Envenenada,Casa
+792,2015,Lima,Lima,27,Pareja o ex pareja,Acuchillada,Casa
+793,2015,Lima,Lima,37,Pareja o ex pareja,Golpeada,Casa
+794,2015,Áncash,Huari,22,Pareja o ex pareja,Envenenada,Casa
+795,2015,Cusco,Cusco,20,Pareja o ex pareja,Golpeada,Casa
+796,2015,Arequipa,Arequipa,38,Pareja o ex pareja,Golpeada,Casa
+797,2015,Lima,Lima,38,Pareja o ex pareja,Acuchillada,Casa
+798,2015,Lima,Lima,17,Pareja o ex pareja,Baleada,Fuera de Casa
+799,2015,Ayacucho,Huamanga,26,Pareja o ex pareja,Baleada,Fuera de Casa
+800,2015,Lima,Lima,25,Pareja o ex pareja,Asfixiada o estrangulada,Casa
+801,2015,Amazonas,Utcubamba,29,Pareja o ex pareja,Golpeada,Casa
+802,2015,Áncash,Yungay,26,Pareja o ex pareja,Acuchillada,Fuera de Casa
+803,2015,Áncash,Huaraz,32,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+804,2015,Pasco,Pasco,24,Pareja o ex pareja,Envenenada,Casa
+805,2015,La Libertad,Trujillo,42,Pareja o ex pareja,Acuchillada,Casa
+806,2015,Lima,Lima,19,Pareja o ex pareja,Acuchillada,Casa
+807,2015,Lima,Lima,14,Pareja o ex pareja,Golpeada,Casa
+808,2015,Arequipa,Islay,43,Pareja o ex pareja,Baleada,Casa
+809,2015,Arequipa,Caylloma,25,Pareja o ex pareja,Acuchillada,Casa
+810,2015,Lima,Lima,42,Pareja o ex pareja,Baleada,Casa
+811,2015,Callao,Callao,23,Pareja o ex pareja,Baleada,Casa
+812,2015,Piura,Sechura,32,Pareja o ex pareja,Acuchillada,Casa
+813,2015,Lima,Lima,29,Pareja o ex pareja,Acuchillada,Casa
+814,2015,Lima,Lima,28,Pareja o ex pareja,Acuchillada,Casa
+815,2015,La Libertad,Trujillo,21,Pareja o ex pareja,Acuchillada,Fuera de Casa
+816,2016,Lima,Lima,42,Cliente de una trabajora sexual,Acuchillada,Fuera de Casa
+817,2016,Lima,Cañete,21,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+818,2016,Lima,Lima,28,Pareja o ex pareja,Baleada,Fuera de Casa
+819,2016,Tacna,Tacna,27,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+820,2016,Lima,Lima,65,Pareja o ex pareja,Golpeada,Casa
+821,2016,Lima,Lima,25,Pareja o ex pareja,Asfixiada o estrangulada,Fuera de Casa
+822,2016,Ica,Ica,35,Pareja o ex pareja,Baleada,Casa

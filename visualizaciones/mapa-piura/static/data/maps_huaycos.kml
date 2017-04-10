@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Huaycos, desbordes y precipitaciones en Perú. Diario La República</name>
+    <description><![CDATA[119 emergencias se registraron desde Diciembre del 2016 a causa de las lluvias lo que ha generado inundaciones, huaycos y deslizamientos en diversos departamentos del Perú.<br><br>Data actualizada hasta el 15/03/2017<br>Fuente: Indeci.]]></description>
+    <NetworkLink>
+      <name>Huaycos, desbordes y precipitaciones en Perú. Diario La República</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/1/kml?forcekml=1&mid=1OQcbbG-HfWPy6KEet2l76T2_aPg]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

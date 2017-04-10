@@ -1,0 +1,112 @@
+{
+    "title": "Personas que cuentan con TV en Perú",
+    "period": [
+        2014
+    ],
+    "stats": {
+        "PE.AM": {
+            "department": "Amazonas",
+            "watcher": 59.5
+        },
+        "PE.AN": {
+            "department": "Ancash",
+            "watcher": 81.8
+        },
+        "PE.AP": {
+            "department": "Apurímac",
+            "watcher": 61.9
+        },
+        "PE.AR": {
+            "department": "Arequipa",
+            "watcher": 92.5
+        },
+        "PE.AY": {
+            "department": "Ayacucho",
+            "watcher": 64.1
+        },
+        "PE.CJ": {
+            "department": "Cajamarca",
+            "watcher": 54.4
+        },
+        "PE.CL": {
+            "department": "Callao",
+            "watcher": 0
+        },
+        "PE.CS": {
+            "department": "Cusco",
+            "watcher": 74.4
+        },
+        "PE.HV": {
+            "department": "Huancavelica",
+            "watcher": 56.3
+        },
+        "PE.HC": {
+            "department": "Huánuco",
+            "watcher": 62.9
+        },
+        "PE.IC": {
+            "department": "Ica",
+            "watcher": 93.3
+        },
+        "PE.JU": {
+            "department": "Junín",
+            "watcher": 82.8
+        },
+        "PE.LL": {
+            "department": "La Libertad",
+            "watcher": 81.7
+        },
+        "PE.LB": {
+            "department": "Lambayeque",
+            "watcher": 90.3
+        },
+        "PE.LR": {
+            "department": "Lima",
+            "watcher": 96.2
+        },
+        "PE.LP": {
+            "department": "Lima Metropolitana y Callao",
+            "watcher": 96.2
+        },
+        "PE.LO": {
+            "department": "Loreto",
+            "watcher":65.6
+        },
+        "PE.MD": {
+            "department": "Madre de Dios",
+            "watcher": 86.2
+        },
+        "PE.MQ": {
+            "department": "Moquegua",
+            "watcher":87.2
+        },
+        "PE.PA": {
+            "department": "Pasco",
+            "watcher": 75.5
+        },
+        "PE.PI": {
+            "department": "Piura",
+            "watcher": 80.6
+        },
+        "PE.PU": {
+            "department": "Puno",
+            "watcher": 63.5
+        },
+        "PE.SM": {
+            "department": "San Martín",
+            "watcher": 72.9
+        },
+        "PE.TA": {
+            "department": "Tacna",
+            "watcher": 92.7
+        },
+        "PE.TU": {
+            "department": "Tumbes",
+            "watcher": 92.8
+        },
+        "PE.UC": {
+            "department": "Ucayali",
+            "watcher": 77.8
+        }
+    }
+}

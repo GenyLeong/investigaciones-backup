@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://larepublica.pe/data/otro-gran-show/programas_2.html">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0"/>
+  <meta name="robots" content="index,follow" />
+  <meta name="keywords" content="Espectáculos, Esto es Guerra, Antonio Pavón, Jenny Kume, Combate, Yiddá Eslava, Televisión peruana, Amor Amor Amor">
+  <meta name="description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.'/>
+  <link rel="canonical" href="http://larepublica.pe/data/otro-gran-show/estadisticas.html" />
+  <meta property="og:description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.' />
+  <meta property="fb:app_id" content="489210501129201" />
+  <meta property="og:site_name" content="LaRepublica.pe" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://larepublica.pe/data/otro-gran-show/estadisticas.html" />
+  <meta property="og:title" content="El otro gran show | ¿Cuál es el negocio? | LaRepublica.pe" />
+  <meta property="og:image" content="http://larepublica.pe/data/otro-gran-show/images/foto_portada.jpg" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@larepublica_pe" />
+  <meta name="twitter:url" content="http://larepublica.pe/data/otro-gran-show/estadisticas.html" />
+  <meta name="twitter:image" content="http://larepublica.pe/data/otro-gran-show/images/foto_portada.jpg" />
+  <meta name="twitter:title" content="El otro gran show | ¿Cuál es el negocio? | LaRepublica.pe" />
+  <meta name="twitter:description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.' />
+  <meta name="twitter:width" content="150" />
+  <meta name="twitter:height" content="120" />
+  <meta itemprop="name" content="El otro gran show | ¿Cuál es el negocio? | LaRepublica.pe">
+  <meta itemprop="description" content='La sección "¿Cuál es el negocio?" del especial "El otro gran show" muestra las cifras del negocio detrás del espéctaculo.'/>
+  <title>El otro gran show | LaRepublica.pe</title>
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/main.min.css">
+  <link rel="shortcut icon" href="http://larepublica.pe/favicon.ico" />
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  <style>
+  .lr{
+        margin-top: 8px;
+  }
+  @media screen and (max-width: 767px) {
+    .logo_lr{
+      width: 153px;
+    }
+    .lr{
+          margin-top: 13px;
+    }
+  }
+  </style>
+</head>
+<body>
+  <div style="padding: 0.8rem;background-color: #7B126C;height: 56px;margin-bottom:49px;">
+    <a href="http://larepublica.pe/data/otro-gran-show/" alt="el_otro_gran_show" class="pull-left">
+      <img class="img-responsive" src="images/logo_nav.png">
+    </a>
+    <a href="http://larepublica.pe/" alt="la_republica" class="pull-right lr">
+      <img class="img-responsive logo_lr" src="images/logo_lr.png">
+    </a>
+  </div>
+  <div id="container-center" class="v-center" style="position: relative;bottom: 49px;">
+    <div id="container-1" style="width:100%;"></div>
+  </div>
+  <a href="http://larepublica.pe/data/otro-gran-show/estadisticas.html" class="ver_video v-center" style="padding:7px; height:56px; margin-top: 49px; font-size: 20px;position: fixed;bottom: 0;width: 100%;border-radius:0px"><i class="fa fa-plus" aria-hidden="true" style="margin-right: 19px;font-size: 30px;"></i> Ver el especial completo</a>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script>
+  $(function() {
+    $(document).ready(function() {
+        window.addEventListener('load', function () {
+          var colors = Highcharts.getOptions().colors,
+              categories = ['Periodisticos', 'Espéctaculos', 'Novelas/Produc.', 'Deportes'],
+              data = [{
+                  y: 24.5,
+                  color: '#C00101',
+                  drilldown: {
+                      name: 'Periodísticos',
+                      categories: ['AN Matinal', 'AN Medio Día', 'AN Central', 'Cuarto Poder', 'Domingo al día'],
+                      data: [10, 5, 5, 2, 2.5],
+                      color: colors[0]
+                  }
+              }, {
+                  y: 22,
+                  color: '#FF0097',
+                  drilldown: {
+                      name: 'Espectáculos',
+                      categories: ['Al aire', 'Esto es guerra', 'El gran show', 'Estas en todas', 'América Espéctaculos', 'Amigos y rivales', 'Mathi Nait', 'El reventonazo de la Chola', 'Habla bien'],
+                      data: [1, 7.5, 1.5, 2, 5, 1, 1, 2, 1],
+                      color: colors[1]
+                  }
+              }, {
+                  y: 29,
+                  color: '#FF5001',
+                  drilldown: {
+                      name: 'Novelas/Prod',
+                      categories: ['Al fondo hay sitio', 'Mis tres marías', 'Tres veces Ana', 'Brusko', 'Camino hacia el destino', 'Cinescape', 'TEC', 'Dr.Vet', 'Dr.TV'],
+                      data: [5, 5, 5, 5, 5, 1, 1, 1, 1],
+                      color: colors[2]
+                  }
+              }, {
+                  y: 2,
+                  color: '#F7C600',
+                  drilldown: {
+                      name: 'Deportes',
+                      categories: ['América Deportes', 'Fútbol en América'],
+                      data: [1, 1],
+                      color: colors[3]
+                  }
+              }],
+              browserData = [],
+              versionsData = [],
+              i,
+              j,
+              dataLen = data.length,
+              drillDataLen,
+              brightness;
+
+
+          // Build the data arrays
+          for (i = 0; i < dataLen; i += 1) {
+
+              // add browser data
+              browserData.push({
+                  name: categories[i],
+                  y: data[i].y,
+                  color: data[i].color
+              });
+
+              // add version data
+              drillDataLen = data[i].drilldown.data.length;
+              for (j = 0; j < drillDataLen; j += 1) {
+                  brightness = 0.2 - (j / drillDataLen) / 5;
+                  versionsData.push({
+                      name: data[i].drilldown.categories[j],
+                      y: data[i].drilldown.data[j],
+                      color: Highcharts.Color(data[i].color).brighten(brightness).get()
+                  });
+              }
+          }
+
+          var donut_2 = Highcharts.chart('container-1', {
+              chart: {
+                  type: 'pie',
+                  backgroundColor: '#FEFCFA'
+              },
+              title: {
+                  text: 'Distribución de los programas en <h2>América </h2> (Canal 4 señal abierta)',
+              },
+              subtitle: {
+                  text: '<h3><b>Organizado por cantidad de horas semanales</b></h3>',
+              },
+              yAxis: {
+                  title: {
+                      text: ' horas'
+                  }
+              },
+              legend: {
+                  layout: 'vertical',
+                  floating: true,
+                  align: 'right',
+                  verticalAlign: 'bottom',
+                  x: -100,
+                  y: 18,
+                  labelFormatter: function() {
+                      return this.name + ': ' + this.y + ' horas';
+                  }
+              },
+              plotOptions: {
+                  pie: {
+                      shadow: false,
+                      center: ['50%', '50%'],
+                      allowPointSelect: true,
+                      cursor: 'pointer',
+                      y: -300,
+                      dataLabels: {
+                          enabled: true,
+                          format: '<b>{point.name}</b>: {point.y:.1f} horas'
+                      }
+                  }
+              },
+              tooltip: {
+                  valueSuffix: ' horas'
+              },
+              series: [{
+                  name: 'Tiempo',
+                  data: browserData,
+                  size: '50%',
+                  dataLabels: {
+                      enabled: false,
+                      formatter: function() {
+                          return this.y > 5 ? +this.point.name : null;
+                      },
+                  },
+                  showInLegend: true
+              }, {
+                  name: 'Tiempo',
+                  data: versionsData,
+                  size: '60%',
+                  innerSize: '60%',
+                  dataLabels: {
+                      formatter: function() {
+                          // display only if larger than 1
+                          return this.y > 1 ? '<b>' + this.point.name + ':</b> ' + this.y + ' horas' : null;
+                      }
+                  }
+              }],
+              responsive: {
+                  rules: [{
+                      condition: {
+                          maxWidth: 767
+                      },
+                      chartOptions: {
+                          plotOptions: {
+                              pie: {
+                                  shadow: false,
+                                  center: ['50%', '50%'],
+                                  allowPointSelect: true,
+                                  cursor: 'pointer',
+                                  dataLabels: {
+                                      enabled: false,
+                                      format: '<b>{point.name}</b>'
+                                  }
+                              }
+                          },
+                          series: [{
+                              name: 'Tiempo',
+                              data: browserData,
+                              size: '40%',
+                              dataLabels: {
+                                  enabled: true,
+                                  formatter: function() {
+                                      return this.y > 5 ? +this.point.name : null;
+                                  },
+                                  distance: -1
+                              },
+                              showInLegend: true,
+                          }],
+                          legend: {
+                              layout: 'vertical',
+                              x: 10,
+                              y: 20,
+                              align: 'center',
+                              verticalAlign: 'bottom',
+                              labelFormatter: function() {
+                                  return this.name + ': ' + this.y + ' horas';
+                              }
+                          }
+                      }
+                  }]
+              }
+          });
+        }, true)
+    })
+  })
+  </script>
+  <script type="text/javascript" src="js/cuadro.js" ></script>
+  <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-THTX64" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <script>
+      (function(w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({
+              'gtm.start': new Date().getTime(),
+              event: 'gtm.js'
+          });
+          var f = d.getElementsByTagName(s)[0],
+              j = d.createElement(s),
+              dl = l != 'dataLayer' ?
+              '&l=' + l :
+              '';
+          j.async = true;
+          j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl + '&nc=' + new Date().getTime();
+          f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-THTX64');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Chartbeat -->
+  <script type='text/javascript'>
+      var _sf_async_config = {};
+      /** CONFIGURATION START **/
+      _sf_async_config.uid = 60837;
+      _sf_async_config.domain = 'larepublica.pe';
+      _sf_async_config.useCanonical = true;
+      _sf_async_config.sections = 'data.elotrogranshow'; //CHANGE THIS
+      _sf_async_config.authors = 'none'; //CHANGE THIS
+      /** CONFIGURATION END **/
+      (function() {
+          function loadChartbeat() {
+              window._sf_endpt = (new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+              document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat :
+              function() {
+                  oldonload();
+                  loadChartbeat();
+              };
+      })();
+  </script>
+  <!-- /Chartbeat -->
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({
+          c1: "2",
+          c2: "6906594"
+      });
+      (function() {
+          var s = document.createElement("script"),
+              el = document.getElementsByTagName("script")[0];
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ?
+              "https://sb" :
+              "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6906594&cv=2.0&cj=1"/>
+</noscript>
+  <div id="fb-root"></div>
+  <script>
+      (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+</html>
